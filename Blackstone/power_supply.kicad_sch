@@ -5,7 +5,7 @@
 	(uuid "933cc0d6-accb-47e0-a39d-978bce249e39")
 	(paper "A4")
 	(title_block
-		(title "Blackstone Flight Computer - Overview")
+		(title "Blackstone Flight Computer - Power Supply")
 		(date "2024-08-02")
 		(rev "Rev A")
 		(company "UC Aerospace")
@@ -1311,10 +1311,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "87d0ba63-228d-4b12-875f-84d3971430c7")
+			(uuid "87d0ba63-228d-4b12-875f-84d3971430c8")
 		)
 		(pin "2"
-			(uuid "0f9ad4e3-cf0e-4979-8a95-96d96889b0c5")
+			(uuid "0f9ad4e3-cf0e-4979-8a95-96d96889b0c6")
 		)
 		(instances
 			(project "Blackstone"

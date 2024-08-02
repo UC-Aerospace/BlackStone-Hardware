@@ -5,7 +5,7 @@
 	(uuid "89ba4feb-d8a4-43b1-b9da-bba57597087c")
 	(paper "A4")
 	(title_block
-		(title "Blackstone Flight Computer - Overview")
+		(title "Blackstone Flight Computer - Altimeter")
 		(date "2024-08-02")
 		(rev "Rev A")
 		(company "UC Aerospace")

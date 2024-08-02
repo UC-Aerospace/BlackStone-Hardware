@@ -5,7 +5,7 @@
 	(uuid "5505454e-b275-4b3c-b21f-2f71c093a4ea")
 	(paper "A4")
 	(title_block
-		(title "Blackstone Flight Computer - Overview")
+		(title "Blackstone Flight Computer - USB to Serial")
 		(date "2024-08-02")
 		(rev "Rev A")
 		(company "UC Aerospace")

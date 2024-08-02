@@ -5,7 +5,7 @@
 	(uuid "ab252384-e59c-40b7-b6ce-029d44bd4035")
 	(paper "A4")
 	(title_block
-		(title "Blackstone Flight Computer - Overview")
+		(title "Blackstone Flight Computer - Microcontroller")
 		(date "2024-08-02")
 		(rev "Rev A")
 		(company "UC Aerospace")
@@ -1312,6 +1312,7 @@
 	)
 	(label "GPS_UART.TX"
 		(at 162.56 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1322,6 +1323,7 @@
 	)
 	(label "GPS_UART.RX"
 		(at 162.56 67.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

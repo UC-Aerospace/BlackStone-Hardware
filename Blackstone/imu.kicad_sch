@@ -5,7 +5,7 @@
 	(uuid "db27f206-a90e-429a-babb-4398bd318da0")
 	(paper "A4")
 	(title_block
-		(title "Blackstone Flight Computer - Overview")
+		(title "Blackstone Flight Computer - IMU")
 		(date "2024-08-02")
 		(rev "Rev A")
 		(company "UC Aerospace")
