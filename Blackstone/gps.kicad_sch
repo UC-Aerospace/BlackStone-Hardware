@@ -1,0 +1,39 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5e316d94-e0de-497c-8d07-88dfd4b996af")
+	(paper "A4")
+	(title_block
+		(title "Blackstone Flight Computer - GPS")
+		(date "2024-08-02")
+		(rev "Rev A")
+		(company "UC Aerospace")
+		(comment 1 "Project: Blackstone")
+	)
+	(lib_symbols)
+	(hierarchical_label "UART{RX,TX}"
+		(shape bidirectional)
+		(at 77.47 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35c291e9-6c4a-453c-8104-c7bb0edcce0a")
+	)
+	(hierarchical_label "I2C{SDA,SCL}"
+		(shape bidirectional)
+		(at 77.47 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "80e814c7-fde2-4950-8556-a5834eed3f31")
+	)
+)

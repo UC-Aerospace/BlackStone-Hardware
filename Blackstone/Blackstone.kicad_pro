@@ -385,6 +385,46 @@
     [
       "d4691366-48b3-469b-a8c0-f6f1bd6d9562",
       "Root"
+    ],
+    [
+      "58dc9fd8-668e-494e-b926-e1816e108686",
+      "Power Supply"
+    ],
+    [
+      "93ab24d1-34f8-4126-a0f6-34cf98cd6a95",
+      "Microcontroller"
+    ],
+    [
+      "023946c2-bf57-4230-8d60-b64d86975402",
+      "USB to Serial"
+    ],
+    [
+      "3deaf285-1ff6-480f-b5c8-ed52b4b75359",
+      "Pyros"
+    ],
+    [
+      "32a3ebef-ca27-46f0-a1ba-e9e35d5c360b",
+      "Data Logging Flash"
+    ],
+    [
+      "1c5d7da4-44c4-4c7f-ba15-605813381cda",
+      "GPS Module"
+    ],
+    [
+      "986d6524-df12-48b1-979f-6ca1231537c8",
+      "IMU"
+    ],
+    [
+      "30c2660d-f2a1-4fd3-9cb5-a8651b4d36c4",
+      "Accelerometer"
+    ],
+    [
+      "a3e343d4-dad2-495a-aeac-289c0f31a617",
+      "Magnetometer"
+    ],
+    [
+      "dfb984bb-c200-4b72-ac90-d434835a0fbe",
+      "Altimeter"
     ]
   ],
   "text_variables": {}

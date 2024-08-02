@@ -1,0 +1,27 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "bf829679-525d-4bb9-9bf6-6f35223a60ad")
+	(paper "A4")
+	(title_block
+		(title "Blackstone Flight Computer - Data Logging Flash")
+		(date "2024-08-02")
+		(rev "Rev A")
+		(company "UC Aerospace")
+		(comment 1 "Project: Blackstone")
+	)
+	(lib_symbols)
+	(hierarchical_label "FLASH_SPI{SCK,MOSI,MISO,CS}"
+		(shape bidirectional)
+		(at 80.01 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8bf19957-5f2f-4f9d-a031-8249fee1ea6e")
+	)
+)

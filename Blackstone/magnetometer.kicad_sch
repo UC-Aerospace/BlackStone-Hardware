@@ -1,0 +1,27 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "89ba4feb-d8a4-43b1-b9da-bba57597087c")
+	(paper "A4")
+	(title_block
+		(title "Blackstone Flight Computer - Magnetometer")
+		(date "2024-08-02")
+		(rev "Rev A")
+		(company "UC Aerospace")
+		(comment 1 "Project: Blackstone")
+	)
+	(lib_symbols)
+	(hierarchical_label "I2C{SDA,SCL}"
+		(shape bidirectional)
+		(at 72.39 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3e57a550-85d2-46d1-8b44-bded3e49b4ea")
+	)
+)
