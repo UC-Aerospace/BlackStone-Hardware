@@ -1,0 +1,27 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e936d4d3-eee1-4694-91d8-ec16f20343ff")
+	(paper "A4")
+	(title_block
+		(title "Blackstone Flight Computer - Overview")
+		(date "2024-08-02")
+		(rev "Rev A")
+		(company "UC Aerospace")
+		(comment 1 "Project: Blackstone")
+	)
+	(lib_symbols)
+	(hierarchical_label "I2C{SDA,SCL}"
+		(shape bidirectional)
+		(at 83.82 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "68b40652-8e96-474f-95c4-32a5a62f8f8f")
+	)
+)

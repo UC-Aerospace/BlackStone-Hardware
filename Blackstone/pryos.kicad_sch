@@ -1,0 +1,63 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e751b24a-c1e1-42aa-a714-82695f86a12d")
+	(paper "A4")
+	(title_block
+		(title "Blackstone Flight Computer - Overview")
+		(date "2024-08-02")
+		(rev "Rev A")
+		(company "UC Aerospace")
+		(comment 1 "Project: Blackstone")
+	)
+	(lib_symbols)
+	(hierarchical_label "PYRO_FIRE[0..3]"
+		(shape input)
+		(at 73.66 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "06b8d91a-6ab9-4cf1-a620-f43fa18111ab")
+	)
+	(hierarchical_label "PYRO_MATCH{4DP}"
+		(shape bidirectional)
+		(at 91.44 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63de9346-2412-40ed-bdfd-0b75ec8dc4e0")
+	)
+	(hierarchical_label "PYRO_SENSE[0..3]"
+		(shape output)
+		(at 73.66 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cb58ef99-e84b-4743-82ce-574945cbfc44")
+	)
+	(hierarchical_label "PYRO_ARMED"
+		(shape output)
+		(at 73.66 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5ec9722-a0eb-47f2-8ec7-544b7d5d6789")
+	)
+)
